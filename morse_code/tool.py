@@ -36,10 +36,13 @@ def text_to_morse(filename):
     return ' / '.join(morse_words)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Encode text to Morse or decode Morse to text")
+    parser = argparse.ArgumentParser(
+        description="Morse Code Tool: Encode text to Morse or decode Morse to text.\n"
+    )
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument('-e', '--encode', help='Text file to encode to Morse', type=str)
     group.add_argument('-d', '--decode', help='Morse file to decode to text', type=str)
+
     args = parser.parse_args()
 
     if args.encode:
