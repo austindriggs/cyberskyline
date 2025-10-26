@@ -1,1 +1,2 @@
-hashcat -m 0 -a 3 ./hash.txt 'SKY-BMYS-?d?d?d?d'
+#!/bin/bash
+hashcat -m 500 -a 3 ./hash.txt 'SKY-MASK-?d?d?d?d' --force
