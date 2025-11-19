@@ -1,0 +1,32 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+Encrypted Password : 
+--------------------------------------------------------------
+
+Information for C:\Users\austi\Documents\ftk-imager-cybe435.ad1:
+[Custom Content Sources]
+ ftk-imager:C:\Users\austi\Documents\cybe435\ftk-imager|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    8920bc59d59b45e7d043bc33de03291f
+ SHA1 checksum:   ece1cf55061fdbfbe860fc54a55b9f0817d78e0a
+
+Image information:
+ Acquisition started:   Tue Nov 18 19:47:59 2025
+ Acquisition finished:  Tue Nov 18 19:47:59 2025
+ Segment list:
+  C:\Users\austi\Documents\ftk-imager-cybe435.ad1
+ COMPUTED HASH :  8920bc59d59b45e7d043bc33de03291f
+ COMPUTED HASH :  ece1cf55061fdbfbe860fc54a55b9f0817d78e0a
+
+Image Verification Results:
+ Verification started:  Tue Nov 18 19:47:59 2025
+ Verification finished: Tue Nov 18 19:48:00 2025
+ MD5 checksum:    8920bc59d59b45e7d043bc33de03291f : verified
+ SHA1 checksum:   ece1cf55061fdbfbe860fc54a55b9f0817d78e0a : verified
